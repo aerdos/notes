@@ -1,5 +1,5 @@
 # notes
-A collection of my Jupyter Notebooks I've written, mostly just as notes for myself.
+A collection of my Jupyter Notebooks I've written, mostly for myself. The goal was to be practical and concicse, these are in no way theoretically comprehensive.
 
 [**FIR Filter**](https://github.com/aerdos/notes/blob/master/FIR%20Filter.ipynb)
 A practical description of the FIR Filter with design and implementation examples.
