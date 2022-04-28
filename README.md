@@ -11,11 +11,11 @@ A collection of my Jupyter Notebooks I often use as reference. It's a work in pr
 
 [**02 Ideal Low-Pass Filter in the Frequency Domain**](https://github.com/aerdos/notes/blob/master/02%20Ideal%20Low-Pass%20Frequency%20Domain.ipynb)
 
-[**03 Ideal Low-Pass Filter in the Time Domain**](https://github.com/aerdos/notes/blob/master/%2003%20Ideal%20Low-Pass%20Time%20Domain.ipynb)
+[**03 Ideal Low-Pass Filter in the Time Domain**](https://github.com/aerdos/notes/blob/master/03%20Ideal%20Low-Pass%20Time%20Domain.ipynb)
 
-[**04 Ideal High-Pass Filter in the Frequency Domain**](https://github.com/aerdos/notes/blob/master/%2004%20Ideal%20High-Pass%20Time%20Domain.ipynb)
+[**04 Ideal High-Pass Filter in the Frequency Domain**](https://github.com/aerdos/notes/blob/master/04%20Ideal%20High-Pass%20Time%20Domain.ipynb)
 
-[**05 Ideal High-Pass Filter in the Time Domain**](https://github.com/aerdos/notes/blob/master/%2005%20Frequency%20Response.ipynb)
+[**05 Ideal High-Pass Filter in the Time Domain**](https://github.com/aerdos/notes/blob/master/05%20Frequency%20Response.ipynb)
 
 ## Filter Implementations
 
