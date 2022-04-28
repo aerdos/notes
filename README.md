@@ -26,3 +26,9 @@ A short practical description of the FIR Filter with design and implementation e
 
 [**IIR Filter**](https://github.com/aerdos/notes/blob/master/IIR%20Filter.ipynb)
 A short practical description of the FIR Filter with design and implementation examples.
+
+## Kalman Filters
+
+[**01 Probability Distributions**](https://github.com/aerdos/notes/blob/master/Kalman%20Filters%2001.ipynb)
+
+[**02 Kalman Filter Exampler**](https://github.com/aerdos/notes/blob/master/Kalman%20Filters%2002.ipynb)
