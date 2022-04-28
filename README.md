@@ -9,7 +9,7 @@ A collection of my Jupyter Notebooks I often use as reference. It's a work in pr
 
 [**01 Fourier Transform**](https://github.com/aerdos/notes/blob/master/Filters%2001%20Fourier%20Transform.ipynb)
 
-[**02 Ideal Low-Pass Filter in the Frequency Domain**](https://github.com/aerdos/notes/blob/master/Filters%2002Ideal%20Low-Pass%20Frequency%20Domain.ipynb)
+[**02 Ideal Low-Pass Filter in the Frequency Domain**](https://github.com/aerdos/notes/blob/master/Filters%2002%20Ideal%20Low-Pass%20Frequency%20Domain.ipynb)
 
 [**03 Ideal Low-Pass Filter in the Time Domain**](https://github.com/aerdos/notes/blob/master/Filters%2003%20Ideal%20Low-Pass%20Time%20Domain.ipynb)
 
